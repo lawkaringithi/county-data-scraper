@@ -4,7 +4,7 @@
 
 That said, it scraps Wikipedia for Kenyan county data (counties, constituencies and wards).
 
-Some of the data on Wikipedia is not complete. Some constituency links point to pages that do not have the ward data. If you need complete data, this is propably not what you should be using ~ but it's okay for test data.
+The data on Wikipedia is incomplete and some constituency links point to pages that do not have ward data. If you need complete data, this is propably not what you should be using ~ but should be fine for test data.
 
 ### Usage:
 
