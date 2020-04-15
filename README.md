@@ -13,7 +13,7 @@ The data on Wikipedia is incomplete and some constituency links point to pages t
 
 pipenv install
 pipenv shell
-python scrapper.py
+python scraper.py
 ```
 
 If all goes well, `python scrapper.py` will generate a `county.json` file containing data in the format below.
